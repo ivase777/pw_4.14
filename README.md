@@ -1,5 +1,6 @@
+```html
 <center><h1>Работа с Git</h1></center>
-
+```
 ![](./pic/git_logo.png)
 
 
