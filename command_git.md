@@ -23,4 +23,4 @@
 
 [< В начало](./README.md) 
 
-[Далее >](./command/add.md)
+[Далее >](./command/init.md)

@@ -2,3 +2,9 @@
 
 Thumbs.db
 .vscode
+.adea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
